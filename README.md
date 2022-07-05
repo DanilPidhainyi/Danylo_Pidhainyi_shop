@@ -25,4 +25,5 @@ yarn start
 ```
 
 <h2 align="center"> DEMONSTRATION </h2>
-![image]( https://github.com/DanilPidhainyi/danylo_pidhainyi_shop/blob/main/screen-recording.gif)
+<img alt="image" src="https://github.com/DanilPidhainyi/danylo_pidhainyi_shop/blob/main/screen-recording.gif">
+
