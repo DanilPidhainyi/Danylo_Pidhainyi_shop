@@ -8,11 +8,11 @@
 
 </p>
 
-## This project is based on  [this design](https://www.figma.com/file/MSyCAqVy1UgNap0pvqH6H3/Junior-Frontend-Test-Designs-(Public)?node-id=0%3A1)
+### This project is based on  [this design](https://www.figma.com/file/MSyCAqVy1UgNap0pvqH6H3/Junior-Frontend-Test-Designs-(Public)?node-id=0%3A1)
 
-## You need to install and run the [backend](https://github.com/scandiweb/junior-react-endpoint) to work
+### You need to install and run the [backend](https://github.com/scandiweb/junior-react-endpoint) to work
 
-## INSTALLATION
+<h2 align="center"> INSTALLATION </h2>
 
 ### 1. Have you run the backend yet🤔?
 ### 2. Ok, follow the commands
@@ -24,5 +24,5 @@ yarn build
 yarn start
 ```
 
-## DEMONSTRATION
-![image]( link)
+<h2 align="center"> DEMONSTRATION </h2>
+![image]( https://github.com/DanilPidhainyi/danylo_pidhainyi_shop/blob/main/screen-recording.gif)
